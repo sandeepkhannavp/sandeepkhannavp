@@ -2,8 +2,8 @@
 <h3 align="center">Been coding for a while now... as you can see</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sandeepkhanna_vp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sreyasqb/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sandeep-khanna-v-p-0b64b819b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="QooBee#1931" height="30" width="40" /></a>
+<a href="https://instagram.com/sandeepkhanna_vp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeepkhanna_vp/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sandeep-khanna-v-p-0b64b819b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="sandeepkhanna_vp" height="30" width="40" /></a>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=sandeepkhannavp&show_icons=true&theme=tokyonight&count_private=true&custom_title=My Stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkhannavp&layout=compact&&custom_title=My Most Used&text_color=37B9AB&bg_color=1A1B27&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" height="195">
