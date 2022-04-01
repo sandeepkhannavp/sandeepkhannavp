@@ -1,8 +1,8 @@
 <h1 align="center">Hey, this is Sandeep Khanna V P</h1>
-<h3 align="center">Been coding for a while now... as you can see</h3>
+<!--h3 align="center">Been coding for a while now... as you can see</h3-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sandeepkhanna_vp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeepkhanna_vp/" height="30" width="40" /></a>
+<a href="https://instagram.com/sandeepkhanna_vp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sandeepkhanna_vp" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sandeep-khanna-v-p-0b64b819b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sandeepkhannavp" height="30" width="40" /></a>
 <a href="https://twitter.com/sandeepkhannavp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sandeepkhannavp" height="30" width="40" /></a>
 
