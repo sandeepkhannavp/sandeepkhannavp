@@ -2,9 +2,9 @@
 <h3 align="center">Been coding for a while now... as you can see</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sreyasqb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sreyasqb/" height="30" width="40" /></a>
+<a href="https://instagram.com/sandeepkhanna_vp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sreyasqb/" height="30" width="40" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sreyasqb&show_icons=true&theme=tokyonight&count_private=true&custom_title=My Stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreyasqb&layout=compact&&custom_title=My Most Used&text_color=37B9AB&bg_color=1A1B27&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" height="195">
+<img src="https://github-readme-stats.vercel.app/api?username=sandeepkhannavp&show_icons=true&theme=tokyonight&count_private=true&custom_title=My Stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkhannavp&layout=compact&&custom_title=My Most Used&text_color=37B9AB&bg_color=1A1B27&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" height="195">
 
 <h3>Languages</h3>
 
@@ -19,9 +19,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreyasqb&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandeepkhannavp&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sreyasqb&custom_title=My%20Contributions&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sandeepkhannavp&custom_title=My%20Contributions&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
