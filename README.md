@@ -11,9 +11,7 @@ I am Sandeep Khanna V P [@sandeepkhannavp](https://github.com/sandeepkhannavp) a
 - :interrobang: Enthusiastic about **Fin-tech,Blockchain and dapps**.
 - :globe_with_meridians: My handles :  
   
-[![sandeepkhannavp](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-khanna-v-p-0b64b819b/) [![sandeepkhanna_vp](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandeepkhanna_vp/) [![sandeepkhanna1](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sandeepkhanna1) [![sandeepkhanna1](	https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/never_out_of_the_fight) 
-
-[![sandeepkhanna1](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sandeepkhannavp/)
+[![sandeepkhannavp](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-khanna-v-p-0b64b819b/) [![sandeepkhanna_vp](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandeepkhanna_vp/) [![sandeepkhanna1](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sandeepkhanna1) [![sandeepkhanna1](	https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/never_out_of_the_fight) [![sandeepkhanna1](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sandeepkhannavp/) [![sandeepkhanna1](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sandeepkhannavp)
 
 <!--
 ### Interesting things, I found :bangbang:
