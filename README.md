@@ -13,6 +13,8 @@ I am Sandeep Khanna V P [@sandeepkhannavp](https://github.com/sandeepkhannavp) a
   
 [![sandeepkhannavp](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-khanna-v-p-0b64b819b/)
 
+[![sandeepkhannavp](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandeepkhanna_vp/)
+
 <!--
 ### Interesting things, I found :bangbang:
 -->
