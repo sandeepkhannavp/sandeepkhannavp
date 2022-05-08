@@ -5,7 +5,7 @@
 I am Sandeep Khanna V P [@sandeepkhannavp](https://github.com/sandeepkhannavp) an evloving computer enthusiast.
 
 ## About me
-- :sparkles: I'm currently pursuing integrated masters in **Theoretical Computer Science **at PSG College of Technology
+- :sparkles: I'm currently pursuing integrated masters in **Theoretical Computer Science ** at PSG College of Technology
 - :book: I'm currently learning **back-end development using golang**
 - :speech_balloon: Ask me about **anything, which might interest you**
 - :interrobang: Enthusiastic about **Fin-tech,Blockchain and dapps**.
