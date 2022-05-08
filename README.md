@@ -36,14 +36,7 @@ Quotes
 ### Activity
 <!--START_SECTION:waka-->
 
-```text
-JavaScript   6 hrs 37 mins   █████████████████▓░░░░░░░   70.87 %
-Dart         57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-Go           53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-```
+https://github-readme-stats.vercel.app/api/top-langs/?username={sandeepkhannavp}
 
 <!--END_SECTION:waka-->
 
