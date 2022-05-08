@@ -36,7 +36,7 @@ Quotes
 ### Activity
 <!--START_SECTION:waka-->
 
-(https://github-readme-stats.vercel.app/api?sandeepkhannavp)
+![githubstats](https://github-readme-stats.vercel.app/api/top-langs/?username={sandeepkhannavp})
 
 <!--END_SECTION:waka-->
 
