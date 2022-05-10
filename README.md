@@ -1,4 +1,4 @@
-![gitartwork](gitartwork.svg)
+
 
 ![](https://komarev.com/ghpvc/?username=sandeepkhannavp&color=orange&style=flat-square)
   
