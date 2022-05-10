@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=sandeepkhannavp&color=orange&style=flat-square)
   
   
-# Hello:wave:!!
+# Yo:wave:!!
 I am Sandeep Khanna V P [@sandeepkhannavp](https://github.com/sandeepkhannavp) an evloving computer enthusiast.
 
 ## About me
