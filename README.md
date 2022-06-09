@@ -4,7 +4,7 @@
   
   
 # Yo:wave:!!
-I am Sandeep Khanna V P [@sandeepkhannavp](https://github.com/sandeepkhannavp) an evloving computer enthusiast.
+I am Sandeep Khanna V P [@sandeepkhannavp](https://github.com/sandeepkhannavp)!
 
 ## About me
 - :sparkles: I'm currently pursuing integrated masters in **Theoretical Computer Science @PSG College of Technology**
