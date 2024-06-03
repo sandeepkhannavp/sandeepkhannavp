@@ -8,26 +8,12 @@ I am Sandeep Khanna V P [@sandeepkhannavp](https://github.com/sandeepkhannavp)!
 
 ## About me
 - :sparkles: I'm currently pursuing integrated masters in **Theoretical Computer Science @PSG College of Technology**
-- :book: I'm currently learning **back-end development using NodeJS/Express and Blockchain-dev with Go**
+- :book: Experience with **back-end development, Web3/blockchain, Databases**
 - :speech_balloon: Ask me about **anything, which might interest you**
-- :interrobang: Enthusiastic about **Web3,Fin-tech,Blockchain and Dapps**.
 - :globe_with_meridians: My handles :  
   
 [![sandeepkhannavp](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-khanna-v-p-0b64b819b/)
-<!--
-### Interesting things, I found :bangbang:
--->
-<!--
-## Skills
 
-## Drop a, Hi !
--->
-
-<!-- 
-Quotes
->  Always we overestimate the amount of work we can do in a day,  
->  and underestimate the amount we can do in our lifetime.
--->
 
 ### Quote
 > Never out of the fight
