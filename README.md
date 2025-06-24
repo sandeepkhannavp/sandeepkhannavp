@@ -5,8 +5,10 @@
 
 I am Sandeep Khanna V P [@sandeepkhannavp](https://github.com/sandeepkhannavp)!
 
+Currently working as a Software Engineer - AI/Backend at [AI DRIVE](myaidrive.com) 
+
 ## About me
-- :sparkles: I'm a graduate of integrated masters in **Theoretical Computer Science @PSG College of Technology**
+- :sparkles: I'm a graduate of integrated masters in **Theoretical Computer Science from PSG College of Technology**
 - :book: Experience with **AI , LLMSs, RAGs, back-end development, Web3/blockchain**
 - :speech_balloon: Ask me about **anything, which might interest you**
 - :globe_with_meridians: My handles :  
