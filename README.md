@@ -2,13 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=sandeepkhannavp&color=orange&style=flat-square)
   
-  
-# Yo:wave:!!
+
 I am Sandeep Khanna V P [@sandeepkhannavp](https://github.com/sandeepkhannavp)!
 
 ## About me
-- :sparkles: I'm currently pursuing integrated masters in **Theoretical Computer Science @PSG College of Technology**
-- :book: Experience with **back-end development, Web3/blockchain, Databases**
+- :sparkles: I'm a graduate of integrated masters in **Theoretical Computer Science @PSG College of Technology**
+- :book: Experience with **AI , LLMSs, RAGs, back-end development, Web3/blockchain**
 - :speech_balloon: Ask me about **anything, which might interest you**
 - :globe_with_meridians: My handles :  
   
