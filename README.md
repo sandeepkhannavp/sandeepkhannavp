@@ -9,7 +9,7 @@ Currently working as a Software Engineer - AI/Backend at [AI DRIVE](myaidrive.co
 
 ## About me
 - :sparkles: I'm a graduate of integrated masters in **Theoretical Computer Science from PSG College of Technology**
-- :book: Experience with **AI , LLMSs, RAGs, back-end development, Web3/blockchain**
+- :book: Experience with **AI , LLMs, RAGs, back-end development, Web3/blockchain**
 - :speech_balloon: Ask me about **anything, which might interest you**
 - :globe_with_meridians: My handles :  
   
