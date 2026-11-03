@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=sandeepkhannavp&color=orange&style=flat-square)
   
 
-Engineering at [AI DRIVE](myaidrive.com) 
+Engineering at [AI DRIVE](www.myaidrive.com) 
 
 Linkedin :  
   
